@@ -4,12 +4,6 @@
 
 ---
 
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/AtharvaThorat/DEC-MINIPROJECT/main/assets/overview.png" alt="Project Visual Overview (replace with actual diagram)" />
-</p>
-
----
-
 ## 🧠 Project Summary
 
 **DEC-MINIPROJECT** is an end-to-end machine learning mini-project built in a Jupyter Notebook that explores:
